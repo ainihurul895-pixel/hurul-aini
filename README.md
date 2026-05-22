@@ -65,6 +65,7 @@ Uji validitas dilakukan untuk mengetahui apakah setiap item pertanyaan pada kues
 
 4. Uji Reliabilitas
 Uji reliabilitas dilakukan menggunakan Cronbach’s Alpha untuk mengetahui konsistensi jawaban responden. Instrumen dinyatakan reliabel apabila nilai Cronbach’s Alpha > 0,60.
+
 HASIL DAN PEMBAHASAN
 1. Uji Validitas
 
